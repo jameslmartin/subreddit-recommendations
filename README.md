@@ -1,6 +1,6 @@
 ### Goal
-Train a model that classifies very unstructured text like Reddit comments to see if a recommendation engine could be built
-If subreddits cluster together, nearest clusters may be other subreddits that are “related” or “interesting” to a user.
+Train a model that classifies very unstructured text like Reddit comments to see if a recommendation engine could be built  
+If subreddits cluster together, nearest clusters may be other subreddits that are "related" or "interesting" to a user.
 
 ### Steps:
 - Train many different models with varying parameters on as large of a set of reddit comments as possible, and answer:
