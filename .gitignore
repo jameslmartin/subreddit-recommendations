@@ -2,3 +2,4 @@ models/
 new_models/
 .ipynb_checkpoints/*
 transformer-1.mp3
+reduced_data.csv
