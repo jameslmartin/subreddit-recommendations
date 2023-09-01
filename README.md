@@ -3,10 +3,10 @@ Train a model that classifies very unstructured text like Reddit comments to see
 If subreddits cluster together, nearest clusters may be other subreddits that are "related" or "interesting" to a user.
 
 ### Results
-Please view the final report PDF located [here](http://cs.unc.edu/~jamesml/790-final-report.pdf).
+Please view the final report PDF located in this repository @ martin-790-final-report.pdf
 
 #### Contact
-jamesml@cs.unc.edu
+hi@jameslmart.in
 
 #### Acknowledgements
 Kaggle for uploading the data set and great tutorials on Python's gensim and sklearn libraries
